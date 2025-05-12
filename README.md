@@ -1,12 +1,19 @@
-# Jellybeans Pro for Zed
+<h3 align="center">Jellybeans Pro for Zed</h3><p align="center">
+A modern implementation of <a href="https://github.com/nanotech/jellybeans.vim">Jellybeans color theme</a> for <a href="https://zed.dev" target="_blank">Zed</a>.
 
-A modern implementation of Jellybeans color theme for [Zed](https://zed.dev).
+</p>
+
 
 ## Usage
 
 ```bash
 python3 app.py
 ```
+
+## Preview
+![Group 2](https://github.com/user-attachments/assets/05844b69-118e-4bb2-9364-4e90ce9d68ed)
+![Group 1 (1)](https://github.com/user-attachments/assets/c971eeea-9925-46a2-bae3-bd39c5dea093)
+
 
 ## Contributing
 
