@@ -8,37 +8,37 @@ class ThemeAppearance(Enum):
 
 VARIANTS = [
     {
-        "name": "Jellybeans Pro",
+        "name": "Beanseeds Pro",
         "filename": "base",
         "appearance": ThemeAppearance.DARK.value
     },
     {
-        "name": "Jellybeans Pro Night",
+        "name": "Beanseeds Pro Night",
         "filename": "night",
         "appearance": ThemeAppearance.DARK.value
     },
     {
-        "name": "Jellybeans Pro Bronze",
+        "name": "Beanseeds Pro Bronze",
         "filename": "bronze",
         "appearance": ThemeAppearance.DARK.value
     },
     {
-        "name": "Jellybeans Pro Vibrant",
+        "name": "Beanseeds Pro Vibrant",
         "filename": "vibrant",
         "appearance": ThemeAppearance.DARK.value
     },
     {
-        "name": "Jellybeans Pro Rizz",
+        "name": "Beanseeds Pro Rizz",
         "filename": "rizz",
         "appearance": ThemeAppearance.LIGHT.value
     },
     {
-        "name": "Jellybeans Pro Cream",
+        "name": "Beanseeds Pro Cream",
         "filename": "cream",
         "appearance": ThemeAppearance.LIGHT.value
     },
     {
-        "name": "Jellybeans Pro Punk",
+        "name": "Beanseeds Pro Punk",
         "filename": "punk",
         "appearance": ThemeAppearance.DARK.value
     },
@@ -50,7 +50,7 @@ def load_colors(variant):
         return yaml.safe_load(f)["colors"]
 
 
-def jellybeans_theme(name, appearance, colors):
+def beanseeds_theme(name, appearance, colors):
     return {
         "name":
         name,
@@ -483,19 +483,19 @@ def jellybeans_theme(name, appearance, colors):
 def main():
     theme_root = {
         "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-        "name": "Jellybeans Pro",
+        "name": "Beanseeds Pro",
         "author": "Daniil Shilo",
         "themes": [],
     }
 
     for variant in VARIANTS:
         colors = load_colors(variant["filename"])
-        theme = jellybeans_theme(variant['name'], variant['appearance'], colors)
+        theme = beanseeds_theme(variant['name'], variant['appearance'], colors)
         theme_root["themes"].append(theme)
 
-    with open("themes/jellybeans-pro.json", "w", encoding="utf-8") as f:
+    with open("themes/beanseeds-pro.json", "w", encoding="utf-8") as f:
         json.dump(theme_root, f, indent=2)
-    print("✅ jellybeans.json has been generated")
+    print("✅ beanseeds-pro.json has been generated")
 
 
 if __name__ == "__main__":

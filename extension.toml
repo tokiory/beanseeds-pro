@@ -1,7 +1,7 @@
-id = "jellybeans-pro"
-name = "Jellybeans Pro Theme"
+id = "beanseeds-pro"
+name = "Beanseeds Pro Theme"
 version = "1.0.0"
 schema_version = 1
 authors = ["Daniil Shilo [tokiory] <tokiory.work@gmail.com>"]
-description = "Jellybeans Pro is a refined adaptation of the classic Jellybeans theme, specifically designed for the Zed editor"
-repository = "https://github.com/tokiory/jellybeans-pro-zed"
+description = "Beanseeds Pro is a refined adaptation of the classic Jellybeans theme, specifically designed for the Zed editor"
+repository = "https://github.com/tokiory/beanseeds-pro"

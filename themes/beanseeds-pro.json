@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Jellybeans Pro",
+  "name": "Beanseeds Pro",
   "author": "Daniil Shilo",
   "themes": [
     {
-      "name": "Jellybeans Pro",
+      "name": "Beanseeds Pro",
       "appearance": "dark",
       "accents": [
         "#cf6a4c",
@@ -323,7 +323,7 @@
       }
     },
     {
-      "name": "Jellybeans Pro Night",
+      "name": "Beanseeds Pro Night",
       "appearance": "dark",
       "accents": [
         "#ff6b6b",
@@ -642,7 +642,7 @@
       }
     },
     {
-      "name": "Jellybeans Pro Bronze",
+      "name": "Beanseeds Pro Bronze",
       "appearance": "dark",
       "accents": [
         "#9d4f3b",
@@ -961,7 +961,7 @@
       }
     },
     {
-      "name": "Jellybeans Pro Vibrant",
+      "name": "Beanseeds Pro Vibrant",
       "appearance": "dark",
       "accents": [
         "#e94e77",
@@ -1280,7 +1280,7 @@
       }
     },
     {
-      "name": "Jellybeans Pro Rizz",
+      "name": "Beanseeds Pro Rizz",
       "appearance": "light",
       "accents": [
         "#e94e77",
@@ -1599,7 +1599,7 @@
       }
     },
     {
-      "name": "Jellybeans Pro Cream",
+      "name": "Beanseeds Pro Cream",
       "appearance": "light",
       "accents": [
         "#e94e77",
@@ -1918,7 +1918,7 @@
       }
     },
     {
-      "name": "Jellybeans Pro Punk",
+      "name": "Beanseeds Pro Punk",
       "appearance": "dark",
       "accents": [
         "#cf6a4c",

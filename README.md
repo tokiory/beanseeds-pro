@@ -1,4 +1,4 @@
-<h3 align="center">Jellybeans Pro for Zed</h3><p align="center">
+<h3 align="center">Beanseeds Pro for Zed</h3><p align="center">
 A modern implementation of <a href="https://github.com/nanotech/jellybeans.vim">Jellybeans color theme</a> for <a href="https://zed.dev" target="_blank">Zed</a>.
 
 </p>
