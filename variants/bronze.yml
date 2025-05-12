@@ -1,0 +1,90 @@
+colors:
+  gray: "#888888"
+  background: "#0e0b08"
+  foreground: "#d1c99d"
+  cursor: "#7f8fbb"
+
+  black: "#0a0705"
+  bright_black: "#5e4a39"
+  dim_black: "#d1c99d"
+
+  red: "#9d4f3b"
+  bright_red: "#7a2921"
+  dim_red: "#e1a08c"
+
+  green: "#758c3e"
+  bright_green: "#3e5c0a"
+  dim_green: "#9aaf85"
+
+  yellow: "#d09e58"
+  bright_yellow: "#e6a841"
+  dim_yellow: "#f0c288"
+
+  blue: "#61788d"
+  bright_blue: "#2e4e67"
+  dim_blue: "#91c3d9"
+
+  magenta: "#a59de1"
+  bright_magenta: "#540043"
+  dim_magenta: "#c3008c"
+
+  cyan: "#95a8b8"
+  bright_cyan: "#4f6e78"
+  dim_cyan: "#aac2b8"
+
+  white: "#d0ca87"
+  bright_white: "#f1f0a6"
+  dim_white: "#b5a57b"
+
+  # UI
+  selection: "#24211d"
+  dark_background: "#0e0b08"
+  hover_background: "#36312b"
+  placeholder: "#6a5b4a"
+  light_gray: "#b9b19b"
+  mid_gray: "#928b7d"
+  dark_gray: "#6a5b4a"
+  wrap_guide: "#d1c99d0d"
+  active_wrap_guide: "#d1c99d1a"
+  border: "#2e2b24CC"
+  border_focused: "#424b46"
+  border_disabled: "#535151"
+  drop_target: "#a08d3d80"
+  scrollbar_thumb: "#d1c99d4c"
+  link_hover: "#7f8fbb"
+
+  # Semantic
+  hint: "#8b9a7f"
+  hint_bg: "#2e2b25"
+  hint_border: "#373d3a"
+  predictive: "#5e5d50"
+  predictive_bg: "#3d2a1d"
+  predictive_border: "#5a4732"
+
+  error: "#9d4f3b"
+  error_bg: "#5d0807"
+  error_border: "#8b2a2a"
+
+  warning: "#d09e58"
+  warning_bg: "#4a2f1b"
+  warning_border: "#6a4f28"
+
+  success: "#758c3e"
+  success_bg: "#3d2a1d"
+  success_border: "#5a4732"
+
+  info: "#6f8a9b"
+  info_bg: "#2e2b25"
+  info_border: "#373d3a"
+
+  deleted_bg: "#5d0807"
+  created_bg: "#3d2a1d"
+  modified_bg: "#4a2f1b"
+  renamed_bg: "#2e2b25"
+
+  comment: "#999999"
+  comment_doc: "#928b7d"
+  string_escape: "#928b7d"
+  string_regex: "#e6a841"
+  string_special: "#a59de1"
+  symbol: "#758c3e"
